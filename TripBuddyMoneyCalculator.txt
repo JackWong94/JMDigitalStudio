@@ -1,0 +1,10 @@
+Trip Buddy Money Calculator is the perfect companion for managing and splitting expenses with your friends or travel partners. Whether you're on a group trip or just sharing costs, this easy-to-use app helps you keep track of each person’s contribution and automatically calculates the final amount each person needs to pay or receive. Simply input the expenses, and the app will do the rest, ensuring everyone pays their fair share.
+
+Key Features:
+
+Add and categorize expenses with ease.
+Split costs evenly or assign specific amounts to each person.
+Automatically calculate the final payback amount for each user.
+Offline functionality: No need for an internet connection to use the app.
+Simple and intuitive interface for hassle-free expense management.
+Perfect for group travels, shared events, or any situation where you need to track and settle up with your buddies!
