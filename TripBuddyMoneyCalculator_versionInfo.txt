@@ -1,5 +1,5 @@
 {
-    "version": "v5.8",
+    "version": "v5.9",
     "releaseNotes": "New features and improvements.",
-    "forceUpdate": true 
+    "forceUpdateVersions": ["v5.6", "v5.7", "v5.8"] //"ALL_VERSIONS" force update any version below this (CAREFULLY USE THIS SECTION, MOST OF THE RELEASE WE DO ALLOW DELAY UPDATE BY USER SELECTION, USED FOR EMERGENCY ONLY)
 }
