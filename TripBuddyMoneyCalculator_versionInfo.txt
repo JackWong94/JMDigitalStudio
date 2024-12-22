@@ -1,0 +1,5 @@
+{
+    "version": "v5.8",
+    "releaseNotes": "New features and improvements.",
+    "forceUpdate": true 
+}
