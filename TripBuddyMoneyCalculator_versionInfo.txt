@@ -1,6 +1,6 @@
 {
     "version": "v5.1",
     "releaseNotes": "- New features and improvements\n- 新功能及改进\n- Fungsi baru dan penambahbaikan",
-    "forceUpdateVersions": ["v5.7"],
+    "forceUpdateVersions": ["v5.8"],
     "developer_notes": "[ALL_VERSIONS] force update any version below this (CAREFULLY USE THIS SECTION, MOST OF THE RELEASE WE DO ALLOW DELAY UPDATE BY USER SELECTION, USED FOR EMERGENCY ONLY)"
 }
