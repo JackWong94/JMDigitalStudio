@@ -1,7 +1,7 @@
 {
-    "stableVersion": "v6.0",
+    "stableVersion": "v5.9",
     "releaseNotes": "- New features and improvements\n- 新功能及改进\n- Fungsi baru dan penambahbaikan",
-    "forceUpdateVersions": ["v5.9"],
+    "forceUpdateVersions": [],
     "oldestAllowVersion": "v5.8",
-    "developer_notes": "oldestAllowVersion force update any version below this (DO NOT WRITE ALL_VERSIONS in the forceUpdateVersions list)"
+    "developer_notes": "oldestAllowVersion force update any version below this (DO NOT WRITE ALL_VERSIONS in the forceUpdateVersions list) EX. "forceUpdateVersions": ["v5.9"],"
 }
