@@ -2,6 +2,6 @@
     "stableVersion": "v5.10",
     "releaseNotes": "- New features and improvements\n- 新功能及改进\n- Fungsi baru dan penambahbaikan",
     "forceUpdateVersions": [],
-    "oldestAllowVersion": "v5.9",
+    "oldestAllowVersion": "",
     "developer_notes": "[ALL_VERSIONS] force update any version below this (CAREFULLY USE THIS SECTION, MOST OF THE RELEASE WE DO ALLOW DELAY UPDATE BY USER SELECTION, USED FOR EMERGENCY ONLY)"
 }
