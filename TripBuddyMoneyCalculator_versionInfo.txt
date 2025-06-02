@@ -1,5 +1,5 @@
 {
-    "stableVersion": "v6.0",
+    "stableVersion": "v6.3",
     "releaseNotes": "- New features and improvements\n- 新功能及改进\n- Fungsi baru dan penambahbaikan",
     "forceUpdateVersions": [],
     "oldestAllowVersion": "v5.8",
